@@ -12,7 +12,6 @@ yarn-error.log*
 .env.production.local
 
 # Configuration files with sensitive data
-config.js
 
 # Logs
 logs
